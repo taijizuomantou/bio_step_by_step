@@ -1,0 +1,4 @@
+是使用所有的train，然后对所有的train数据进行test的结果
+tensor(4074, device='cuda:0')#错误的个数
+tensor(67, device='cuda:0')#1的个数
+[tensor(1166.7819, device='cuda:0'), tensor(1166.8229, device='cuda:0'), tensor(1166.7949, device='cuda:0'), tensor(1166.6981, device='cuda:0'), tensor(1166.7755, device='cuda:0'), tensor(1166.8085, device='cuda:0'), tensor(1166.6467, device='cuda:0'), tensor(1166.7218, device='cuda:0'), tensor(1166.7457, device='cuda:0'), tensor(1166.8649, device='cuda:0')]

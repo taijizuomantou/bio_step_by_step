@@ -1,0 +1,2 @@
+train_text and test_text：是句子+label的形式。其中每个句子已经保证有一个drugA和一个drugB
+sentence：是所有存在pair的句子
